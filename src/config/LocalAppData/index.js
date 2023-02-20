@@ -1,4 +1,4 @@
-export const GOOGLE_API_KEY = 'AIzaSyBEaXgEpQZUiExityBFr_MNJJAIco57msk';
+export const GOOGLE_API_KEY = 'API_KEY';
 
 export const CategoryLS = [
   {id: 1, name: 'Dairy Milk'},
